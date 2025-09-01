@@ -3,7 +3,7 @@
     "Name": "is-terminal",
     "License": "MIT",
     "License File": "LICENSE-MIT, LICENSE-MIT-atty",
-    "Version Number": "0.4.3",
+    "Version Number": "v0.4.3",
     "Owner": "fangting12@huawei.com",
     "Upstream URL": "https://github.com/sunfishcode/is-terminal",
     "Description": "A Rust library that provides support for detecting whether a terminal is present."
