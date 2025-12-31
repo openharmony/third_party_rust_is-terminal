@@ -28,4 +28,7 @@ ohos_cargo_crate("lib") {
         "//third_party/rust/crates/io-lifetimes:lib",
         "//third_party/rust/crates/rustix:lib",
     ]
+    module_output_extension = ".rlib"
+    part_name = "rust_is_terminal"
+    subsystem_name = "thirdparty"
 }
